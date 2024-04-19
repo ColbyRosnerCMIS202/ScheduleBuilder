@@ -1,5 +1,6 @@
 # Schedule-Builder
-Code committed is under Java/com.example.asiancafe/
+Code committed is under Src/Main --->  Java ----> com.example.asiancafe
+
 
 The users of the software would be me because I am a manager, and my boss. The software would automate a schedule builder function that are manually inputted by me and my boss.. This software would be used daily and weekly at my place of work
 

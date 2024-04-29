@@ -101,4 +101,7 @@ class ScheduleBuilder {
 
         return merged;
     }
+    public List<Worker> getWorkers() {
+        return workers;
+    }
 }
